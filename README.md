@@ -33,13 +33,16 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvorika&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
-<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suvorika&theme=dark&hide_border=true&area=true)](https://git.io/streak-stats)
-
-
+<h1 align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suvorika&theme=dark&hide_border=true&area=true)](https://git.io/streak-stats)
+</h1>
 
 - 🤔 I'm looking for help with my head ...
 
 Here are some ideas to get you started:
+<h1 align="right">
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</h1>
