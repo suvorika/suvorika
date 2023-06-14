@@ -35,7 +35,7 @@
 </details>
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suvorika&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suvorika&theme=dark&hide_border=true&area=true)](https://git.io/streak-stats)
 
 
 
