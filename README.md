@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/suvorika/" target="_blank">Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
 <h3 align="center">I started learning programming and i'm from Russia 🇷🇺</h3><div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
 </div>
 
 <p align="center">
-:hammer_and_wrench: Languages and Tools :
+💻 Languages and Tools :
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
