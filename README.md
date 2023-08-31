@@ -37,8 +37,8 @@
 </details>
 
 <h1 align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suvorika&theme=dark&hide_border=true&area=true)](https://git.io/streak-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=suvorika1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 </h1>
 
 - 🤔 I'm looking for help with my head ...
