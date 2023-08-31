@@ -38,7 +38,7 @@
 
 <h1 align="center">
   
-  <img align="center" src="https://streak-stats.demolab.com?user=suvorika&theme=dark"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suvorika&theme=dark&background=000000)](https://git.io/streak-stats)
 </h1>
 
 - 🤔 I'm looking for help with my head ...
